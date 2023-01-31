@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alexandr Bessonov</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">IT student and Junior DS</h3>
 
 <!--
 **bezzonov/bezzonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Lets+get+to+know!)](https://git.io/typing-svg)
+
+<h4 align="left">• Big Data student from Moscow</h4>
+
+<h4 align="left">• I’m currently learning algorithms and data structures in Yandex</h4>
+
+<h4 align="left">• Here to learn how to work with Git</h4>
