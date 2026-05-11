@@ -25,7 +25,6 @@ Data Scientist with 4+ years building ML models for banking, including propensit
 - Designed deposit communication params; A/B test boosted email CTR by >64%.
 - Created SQL/Python pipelines for Big Data aggregation (web/mobile analytics, trades) into Feature Store.
 - Predicted client asset values (e.g., cars: avg. error ~1.2k$) to enrich profiles.
-- Built churn prediction pipeline for deposit clients.
 
 ### Junior Data Scientist @ Kit Systems (5/2022 –  6/2024) - 2.1 years
 - Developed supplier ranking and optimal insurance stock system for Kolomna factory.
