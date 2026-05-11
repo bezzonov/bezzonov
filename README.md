@@ -5,7 +5,7 @@
 💬 tg: bezzonov
 
 ## 🧠 About Me
-Data Scientist with 3+ years building ML models for banking, including propensity/outflow, time series, and uplift models. Specialized in optimizing retail communications; passionate about RL in finance.
+Data Scientist with 4+ years building ML models for banking, including propensity/outflow, time series, and uplift models. Specialized in optimizing retail communications; passionate about RL in finance.
 
 ## 🛠 Skills
 
@@ -20,14 +20,14 @@ Data Scientist with 3+ years building ML models for banking, including propensit
 - Built propensity models for new client onboarding (e.g., mobile payments, deposits): avg. ROC-AUC 89.7%. Each model generates ~200k$/year via communication optimization.
 - Developed uplift models for sensitive clients (e.g., utility payments, Alfa-Pay, savings accounts): avg. Qini 0.11.
 
-### Middle Data Scientist @ <a>[MOEX](https://www.moex.com/en)</a>  (Jul – Aug 2025) - 1.1 years 
+### Middle Data Scientist @ <a>[MOEX](https://www.moex.com/en)</a>  (Jun – Aug 2025) - 1.2 years 
 - Forecasted stable wallet balances (7-day horizon): avg. error ~10%, projected P&L ~2.1 Mln.$/year.
 - Designed deposit communication params; A/B test boosted email CTR by >64%.
 - Created SQL/Python pipelines for Big Data aggregation (web/mobile analytics, trades) into Feature Store.
 - Predicted client asset values (e.g., cars: avg. error ~1.2k$) to enrich profiles.
 - Built churn prediction pipeline for deposit clients.
 
-### Junior Data Scientist @ Kit Systems (May 2023 – Jul 2024) - 1.2 years
+### Junior Data Scientist @ Kit Systems (May 2022 – Jun 2024) - 2.1 years
 - Developed supplier ranking and optimal insurance stock system for Kolomna factory.
 - Built cross-analysis and project monitoring system for Tver Carriage Works.
 
