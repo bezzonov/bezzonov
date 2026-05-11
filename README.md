@@ -1,5 +1,5 @@
 # Aleks Bessonov
-## 📊 Middle Data Scientist - Propensity, Outflow, Uplift, Time Series, RL
+## 📊 Middle+ Data Scientist - Propensity, Outflow, Uplift, Time Series, RL
 📩 aleksbessonov.job@gmail.com 
 
 💬 tg: bezzonov
@@ -16,7 +16,7 @@ Data Scientist with 3+ years building ML models for banking, including propensit
 **Production:** Linux CLI, Hadoop, Docker, Airflow, Git, Bitbucket, Superset, Grafana, Spark, MLflow
 
 ## 💼 Experience
-### Senior Data Scientist @ Alfa-Bank (Aug 2025 – Present) 
+### Middle+ Data Scientist @ Alfa-Bank (Aug 2025 – Present) 
 - Built propensity models for new client onboarding (e.g., mobile payments, deposits): avg. ROC-AUC 89.7%. Each model generates ~15M RUB/year via communication optimization.
 - Developed uplift models for sensitive clients (e.g., utility payments, Alfa-Pay, savings accounts): avg. Qini 0.11.
 
