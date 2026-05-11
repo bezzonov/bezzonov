@@ -1,19 +1,21 @@
 # Aleks Bessonov
 ## 📊 Middle Data Scientist - Propensity, Outflow, Uplift, Time Series, RL
 📩 aleksbessonov.job@gmail.com 
+
 💬 tg: bezzonov
 
-🧠 About Me
+## 🧠 About Me
 Data Scientist with 3+ years building ML models for banking, including propensity/outflow, time series, and uplift models. Specialized in optimizing retail communications; passionate about RL in finance.
 
-🛠 Skills
+## 🛠 Skills
+
 **Data Analysis:** SciPy, NumPy, Pandas, SQL (PostgreSQL, Oracle, ClickHouse, MongoDB), Matplotlib, Seaborn, Plotly
 
 **ML Modeling:** Scikit-learn, CatBoost, XGBoost, LightGBM, Scikit-uplift, PyTorch
 
 **Production:** Linux CLI, Hadoop, Docker, Airflow, Git, Bitbucket, Superset, Grafana, Spark, MLflow
 
-💼 Experience
+## 💼 Experience
 ### Senior Data Scientist @ Alfa-Bank (Aug 2025 – Present) 
 - Built propensity models for new client onboarding (e.g., mobile payments, deposits): avg. ROC-AUC 89.7%. Each model generates ~15M RUB/year via communication optimization.
 - Developed uplift models for sensitive clients (e.g., utility payments, Alfa-Pay, savings accounts): avg. Qini 0.11.
@@ -30,17 +32,18 @@ Data Scientist with 3+ years building ML models for banking, including propensit
 - Built cross-analysis and project monitoring system for Tver Carriage Works.
 
 # Projects & Achievements
-RL Trading Strategy: Stock trading agent on Russian market using RL.
+
+<a>![RL Trading Strategy: Stock trading agent on Russian market using RL](https://github.com/bezzonov/invest_with_agent )</a>
 
 🥈 Winner, "Talent NTO" portfolio contest (Python Programming & AI).
 
 🥈 Finalist, Yandex Cup Analytics (2022).
 
-# Education
+## 🎓 Education
 Moscow Polytechnic – Big & Open Data (2021–2025)
 
 HSE University – Artificial Intelligence (2025–2027)
 
-# Courses
+## 📚 Courses
 Competitive Data Science (2024), Deep Learning (MIPT, 2023), Algorithms & Data Structures (Yandex, 2023)
 
