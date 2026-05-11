@@ -44,5 +44,5 @@ Moscow Polytechnic – Big & Open Data (2021–2025)
 HSE University – Artificial Intelligence (2025–2027)
 
 ## 📚 Courses
-Competitive Data Science (2024), Deep Learning (MIPT, 2023), Algorithms & Data Structures (Yandex, 2023)
+Competitive Data Science (2023), Deep Learning (MIPT, 2022), Algorithms & Data Structures (Yandex, 2021)
 
