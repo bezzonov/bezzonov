@@ -31,7 +31,7 @@ Data Scientist with 4+ years building ML models for banking, including propensit
 - Developed supplier ranking and optimal insurance stock system for Kolomna factory.
 - Built cross-analysis and project monitoring system for Tver Carriage Works.
 
-# Projects & Achievements
+## Projects & Achievements
 
 <a>[RL Trading Strategy: Stock trading agent on Russian market using RL](https://github.com/bezzonov/invest_with_agent )</a>
 
