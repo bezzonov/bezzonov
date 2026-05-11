@@ -16,11 +16,11 @@ Data Scientist with 3+ years building ML models for banking, including propensit
 **Production:** Linux CLI, Hadoop, Docker, Airflow, Git, Bitbucket, Superset, Grafana, Spark, MLflow
 
 ## 💼 Experience
-### Middle+ Data Scientist @ Alfa-Bank (Aug 2025 – Present) 
+### Middle+ Data Scientist @ <a>[Alfa-Bank](https://alfabank.ru/en/)</a> (Aug 2025 – Present) 
 - Built propensity models for new client onboarding (e.g., mobile payments, deposits): avg. ROC-AUC 89.7%. Each model generates ~200k$/year via communication optimization.
 - Developed uplift models for sensitive clients (e.g., utility payments, Alfa-Pay, savings accounts): avg. Qini 0.11.
 
-### Middle Data Scientist @ MOEX & Finuslugi (Jul–Aug 2025) - 1.1 years
+### Middle Data Scientist @ a>[MOEX](https://www.moex.com/en)</a>  (Jul–Aug 2025) - 1.1 years 
 - Forecasted stable wallet balances (7-day horizon): avg. error ~10%, projected P&L ~2.1 Mln.$/year.
 - Designed deposit communication params; A/B test boosted email CTR by >64%.
 - Created SQL/Python pipelines for Big Data aggregation (web/mobile analytics, trades) into Feature Store.
