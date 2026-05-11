@@ -1,4 +1,4 @@
-# Aleks Bessonov
+# Aleksandr Bessonov
 ## 📊 Middle+ Data Scientist - Propensity, Outflow, Uplift, Time Series, RL
 📩 aleksbessonov.job@gmail.com 
 
@@ -17,14 +17,14 @@ Data Scientist with 3+ years building ML models for banking, including propensit
 
 ## 💼 Experience
 ### Middle+ Data Scientist @ Alfa-Bank (Aug 2025 – Present) 
-- Built propensity models for new client onboarding (e.g., mobile payments, deposits): avg. ROC-AUC 89.7%. Each model generates ~15M RUB/year via communication optimization.
+- Built propensity models for new client onboarding (e.g., mobile payments, deposits): avg. ROC-AUC 89.7%. Each model generates ~200k$/year via communication optimization.
 - Developed uplift models for sensitive clients (e.g., utility payments, Alfa-Pay, savings accounts): avg. Qini 0.11.
 
 ### Middle Data Scientist @ MOEX & Finuslugi (Jul–Aug 2025) - 1.1 years
-- Forecasted stable wallet balances (7-day horizon): avg. error ~10%, projected P&L ~145M RUB/year.
+- Forecasted stable wallet balances (7-day horizon): avg. error ~10%, projected P&L ~2.1 Mln.$/year.
 - Designed deposit communication params; A/B test boosted email CTR by >64%.
 - Created SQL/Python pipelines for Big Data aggregation (web/mobile analytics, trades) into Feature Store.
-- Predicted client asset values (e.g., cars: avg. error ~1.2K$) to enrich profiles.
+- Predicted client asset values (e.g., cars: avg. error ~1.2k$) to enrich profiles.
 - Built churn prediction pipeline for deposit clients.
 
 ### Junior Data Scientist @ Kit Systems (May 2023 – Jul 2024) - 1.2 years
@@ -33,7 +33,7 @@ Data Scientist with 3+ years building ML models for banking, including propensit
 
 # Projects & Achievements
 
-<a>![RL Trading Strategy: Stock trading agent on Russian market using RL](https://github.com/bezzonov/invest_with_agent )</a>
+<a>[RL Trading Strategy: Stock trading agent on Russian market using RL](https://github.com/bezzonov/invest_with_agent )</a>
 
 🥈 Winner, "Talent NTO" portfolio contest (Python Programming & AI).
 
