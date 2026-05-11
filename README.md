@@ -1,4 +1,4 @@
-# Aleksandr Bessonov
+# Aleksandr Bessonov | **Data Scientist, 4+ years experience**
 ## 📊 Middle+ Data Scientist - Propensity, Outflow, Uplift, Time Series, RL
 📩 aleksbessonov.job@gmail.com 
 
